@@ -23,7 +23,7 @@
 ---
 
 ### 🚀 **What I'm Working On**
-- **Improving the user experience** at **FightCamp** with a focus on **speed and accessibility**.
+- **Improving the user experience** with a focus on **speed and accessibility**.
 - Building reusable UI components for **dynamic, scalable web apps**.
 - Working on side projects in **React** to explore new technologies.
 
