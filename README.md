@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sam!
 
 👩🏻‍💻 **Full Stack Software Engineer**  
-💼 Currently working @ **FightCamp** 🥊  
+💼 Currently working @ **Nuuly** 👚
 🎨 Previously a **Designer in Fashion**
 
 ---
